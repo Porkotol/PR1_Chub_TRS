@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="PR1_Chub_TRS/PR1_Chub_TRS_1.csproj" />
+  <Project Path="PR1_Chub_TRS_2.1/PR1_Chub_TRS_2.1.csproj" Id="84b7bf0a-f061-48bd-bb3a-1aca52820ab1" />
+  <Project Path="PR1_Chub_TRS_2.2/PR1_Chub_TRS_2.2.csproj" Id="ed37484e-fbe9-4217-9450-23210e0b35e6" />
+  <Project Path="PR1_Chub_TRS_2.3/PR1_Chub_TRS_2.3.csproj" Id="c58adc29-4f45-4bae-8df7-0a7594dce251" />
+  <Project Path="PR1_Chub_TRS_3_SVIY/PR1_Chub_TRS_3_SVIY.csproj" Id="1e2869bc-8afa-45b4-ba0e-11c56e70e6ba" />
+  <Project Path="TASK2.4/PR1_Chub_TRS_2.4.csproj" Id="3faa0644-3aa4-4c35-8cc6-961d2a25606d" />
+</Solution>
